@@ -4,7 +4,7 @@ This is my home page! My Name is Nicolas Montes de Oca and I am a student at Cal
 
 ## Computer science Projects 
 
-My github page is https://github.com/nickmontess
+My Github page is [https://github.com/nickmontess] (https://github.com/nickmontess)
 
 ### CPSC 120 
 
