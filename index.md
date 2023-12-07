@@ -1,6 +1,6 @@
 # Hello World 
 
-This is my home page! My Name is Nicolas Montes de Oca and I am a student at Cal State Fullerton and my major is in Computer Science.
+This is my home page! My Name is Nicolas Montes de Oca and I am a student at [Cal State Fullerton](https://www.fullerton.edu/) and my major is in Computer Science.
 
 ## Computer science Projects 
 
